@@ -6,6 +6,8 @@ namespace DAL
     {
        private static OleDbConnection _con2selectunit = null;
        public static OleDbConnection GetConnection2selectunit
+          public static OleDbConnection GetConnection2selectunit
+         
        {
            get
            {
